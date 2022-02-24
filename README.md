@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Monica-Kulkarni
 - 👀 I’m interested in Data Analysis and ETL
-- 🌱 I’m currently learning Python and SQL (SnowSQL)
+- 🌱 I’m skilled in SQL, Tableau, Python, Excel, AWS, Snowflake, Salesforce
 - 📫 How to reach me - via email
 
 <!---
